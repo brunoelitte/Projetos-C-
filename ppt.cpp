@@ -108,4 +108,5 @@ int verifica(int p1, int p2){
     if(p1==TESOURA && p2==PEDRA){ ganhador = 2; }
 
     return ganhador;
+    
 }
